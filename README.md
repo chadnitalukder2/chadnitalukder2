@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on developer
 
 ### ⚙️ &nbsp;GitHub Analytics
-<div align="center">
+<div style="text-align: center">
   
 <p align="center">
 <a href="https://github.com/chadnitalukder2">
