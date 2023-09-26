@@ -1,7 +1,4 @@
 
-- 👋 Hi, I’m @chadnitalukder2
-- 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on developer
 <h1 align="center">Hi 👋, I'm Puja</h1>
 <h3 align="center">A passionate web developer from bangladesh</h3>
 
